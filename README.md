@@ -1,4 +1,5 @@
 Cryptocurrency Market Data Clustering with K-Means
+
 Project Overview
 This project applies clustering techniques to cryptocurrency market data to identify meaningful groupings of cryptocurrencies based on their price change percentages. The goal is to explore how K-Means clustering performs on both the original scaled data and the data reduced using Principal Component Analysis (PCA).
 
